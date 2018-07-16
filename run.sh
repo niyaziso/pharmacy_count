@@ -4,5 +4,5 @@
 #
 #python ./src/pharmacy_counting.py ./input/itcont.txt ./output/top_cost_drug.txt
 
-python src/pharmacy_counting.py ./insight_testsuite/tests/mytest/input/itcont.txt ./insight_testsuite/tests/mytest/output/top_cost_drug.txt
+python ./src/pharmacy_counting.py ./input/itcont.txt ./output/top_cost_drug.txt
 
